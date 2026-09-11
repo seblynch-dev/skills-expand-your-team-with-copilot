@@ -5,6 +5,7 @@ A super simple website application that allows students to view and sign up for 
 ## Features
 
 - View all available extracurricular activities
+- Switch between card and weekly calendar views
 - Sign up for activities
 
 ## Development Guide
